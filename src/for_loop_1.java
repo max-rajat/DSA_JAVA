@@ -10,6 +10,5 @@ public class for_loop_1 {
         for(i=1; i <= n; i++){
             System.out.println(i + ". Hello world" );
         }
-
     }
 }
