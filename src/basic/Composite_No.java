@@ -1,3 +1,5 @@
+package basic;
+
 //finding n is composite no or not
 import java.util.Scanner;
 public class Composite_No {

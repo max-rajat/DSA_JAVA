@@ -1,3 +1,5 @@
+package basic;
+
 import java.util.Scanner;
 public class Profit_Loss {
     public static void main(String[] args) {

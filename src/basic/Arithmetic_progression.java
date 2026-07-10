@@ -1,3 +1,5 @@
+package basic;
+
 //display this AP - 1,3,5,7,9 ..... upto "n" terms
 import java.util.Scanner;
 public class Arithmetic_progression {

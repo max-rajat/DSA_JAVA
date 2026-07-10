@@ -1,3 +1,5 @@
+package basic;
+
 //print hello world n times Take n as input from user
 import java.util.Scanner;
 public class for_loop_1 {

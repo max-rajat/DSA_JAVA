@@ -1,3 +1,5 @@
+package basic;
+
 import java.util.Scanner;
 public class Student_Grade {
     public static void main(String[] args) {

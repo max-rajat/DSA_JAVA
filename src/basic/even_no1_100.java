@@ -1,3 +1,5 @@
+package basic;
+
 // even no between 1-100
 public class even_no1_100 {
     public static void main(String[] args) {

@@ -1,3 +1,5 @@
+package basic;
+
 //print count from 1 to 100
 
 public class for_loop_1_100 {

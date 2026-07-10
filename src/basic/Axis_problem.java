@@ -1,3 +1,5 @@
+package basic;
+
 import java.util.Scanner;
 public class Axis_problem {
     public static void main(String[] args) {

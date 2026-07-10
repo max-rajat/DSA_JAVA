@@ -1,3 +1,5 @@
+package basic;
+
 import java.sql.SQLOutput;
 import java.util.Scanner;
 public class Divisible_OR {

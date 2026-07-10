@@ -1,3 +1,5 @@
+package basic;
+
 //display Ap = 4,7,10.13, .... upto 'n' term without using mathematical formula
 import java.util.Scanner;
 public class Ap_without_formula {

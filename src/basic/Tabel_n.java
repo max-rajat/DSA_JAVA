@@ -1,3 +1,5 @@
+package basic;
+
 // print tabel of n , take n from user ex=2,3,6
 import java.util.Scanner;
 public class Tabel_n {

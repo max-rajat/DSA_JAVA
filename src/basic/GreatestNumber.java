@@ -1,3 +1,5 @@
+package basic;
+
 import java.util.*;
 public class GreatestNumber {
     public static void main(String[] args) {
