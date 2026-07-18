@@ -10,7 +10,7 @@ public class TwoSum {
                 if(arr[i] + arr[j] == x){
                     ans[0]=i;
                     ans[1]=j;
-                    System.out.println(i +" "+j);
+                    System.out.println(i+" "+j);
                 }
             }
         }
